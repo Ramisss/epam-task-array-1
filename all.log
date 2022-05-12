@@ -1,0 +1,12 @@
+2022-05-11 18:14:27.394 [main] ERROR epam.com.log4j.reader.ReadFile - NOT INTEGER
+2022-05-11 18:14:27.400 [main] ERROR epam.com.log4j.reader.ReadFile - NOT INTEGER
+2022-05-11 18:14:27.400 [main] INFO  epam.com.log4j.reader.ReadFile - [23, 65, 22]
+2022-05-11 18:15:54.108 [main] ERROR org.apache.logging.log4j.message.MessageFactory - NOT INTEGER
+2022-05-11 18:15:54.113 [main] ERROR org.apache.logging.log4j.message.MessageFactory - NOT INTEGER
+2022-05-11 18:15:54.114 [main] INFO  org.apache.logging.log4j.message.MessageFactory - [23, 65, 22]
+2022-05-11 18:16:59.835 [main] ERROR epam.com.log4j.validator.NumberValidator - NOT INTEGER
+2022-05-11 18:16:59.841 [main] ERROR epam.com.log4j.validator.NumberValidator - NOT INTEGER
+2022-05-11 18:16:59.841 [main] INFO  epam.com.log4j.validator.NumberValidator - [23, 65, 22]
+2022-05-11 18:17:57.361 [main] ERROR epam.com.log4j.reader.ReadFile - NOT INTEGER
+2022-05-11 18:17:57.361 [main] ERROR epam.com.log4j.reader.ReadFile - NOT INTEGER
+2022-05-11 18:17:57.368 [main] INFO  epam.com.log4j.reader.ReadFile - [23, 65, 22]
